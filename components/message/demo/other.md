@@ -41,5 +41,6 @@ ReactDOM.render(
 <style>
 #components-message-demo-other .ant-btn {
   margin-right: 8px;
+  background-color: red;
 }
 </style>
